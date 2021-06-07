@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Pyhoma69&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhoma69&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyhoma69&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhoma69&layout=compact&theme=dark&hide_border=true)
 
 ## Reach Me
 
