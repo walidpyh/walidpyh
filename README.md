@@ -44,10 +44,3 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyhoma69&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhoma69&layout=compact&theme=tokyonight&hide_border=true)
-
-## Reach Me
-
-<p id="socialIcons">
-   <a href="https://twitter.com/Pyhoma07" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Pyhoma07-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
-</p>
