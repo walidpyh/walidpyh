@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pyhoma69&show_icons=true&theme=tokyonight&hide_border=true)
-![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pyhoma69&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=walidpyh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidpyh&layout=compact&theme=tokyonight&hide_border=true)
